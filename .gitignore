@@ -113,3 +113,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 config.py
+alaska-oil-production.ipynb
+alaska-oil.twbx
+Resources/PET.txt
